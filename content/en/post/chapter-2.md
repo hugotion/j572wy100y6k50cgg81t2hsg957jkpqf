@@ -2,10 +2,11 @@
 date: '2017-04-10T15:00:59.000Z'
 description: Pierre Gringoire
 featured_image: ''
-sha: b3c7d4f9f36a4f1861c96be9e39e7e8325e9d6ca
 tags: []
 title: 'Chapter II: Pierre Gringoire'
 ---
+![2-wallpaper-meet.png](https://raw.githubusercontent.com/hugotion/j572wy100y6k50cgg81t2hsg957jkpqf/refs/heads/main/static/images/2-wallpaper-meet-1751039143388-35d16p.png)
+
 Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
 
 “Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!” yelped the scholar.
